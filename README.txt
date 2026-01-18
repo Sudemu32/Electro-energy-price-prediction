@@ -3,5 +3,5 @@
 
 С результатом можно ознакомиться внутри price_prediction.ipynb, в данной работе использовался алгоритм
 машинного обучения CatBoost. В последней ячейке ноутбука представлен график с предсказаниями!
-![Описание GIF](file:///C:/Users/work/Downloads/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%E2%80%94%20%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D0%BD%D0%BE%20%D0%B2%20Clipchamp%20(3)%20(1).gif)
+![Описание GIF](C:/Users/work/Downloads/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%E2%80%94%20%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D0%BD%D0%BE%20%D0%B2%20Clipchamp%20(3)%20(1).gif)
 
