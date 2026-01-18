@@ -3,6 +3,5 @@
 
 С результатом можно ознакомиться внутри price_prediction.ipynb, в данной работе использовался алгоритм
 машинного обучения CatBoost. В последней ячейке ноутбука представлен график с предсказаниями!
-https://github.com/Sudemu32/Electro-energy-price-prediction/issues/1#issue-3827253078
 
 
